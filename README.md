@@ -2,12 +2,12 @@
   <img src="https://github.com/712Kunal/712Kunal/blob/main/github%20banner.png" alt="banner" width="100%">
 </p>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Kunal Jadhav</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm AkshayWake</h1>
 <h3 align="center">A passionate frontend developer from India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=712kunal&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/712kunal?label=Followers&style=social" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=AkshayWake11&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/AkshayWake11?label=Followers&style=social" alt="followers" />
 </p>
 
 <p align="center">
@@ -22,16 +22,13 @@
 
 - 🔭 I'm currently working on **improving my frontend skills**
 - 🌱 I'm currently learning **MERN stack**
-- 👨‍💻 All of my projects are available at [my portfolio](https://712kunal.github.io/Portfolio/)
 - 💬 Ask me about **React, JavaScript, and frontend and backend development**
-- 📫 How to reach me: **jadhavkun0@gmail.com**
-- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1SaMvP0iuF7W8_Rak31GXx0hqN0xOtpYQ/view)
+- 📫 How to reach me: **akshaywake11@gmail.com**
 - ⚡ Fun fact: **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/kunal-jadhav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kunal jadhav" height="30" width="40" /></a>
-  <a href="https://instagram.com/kunal_712_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kunal_712_" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/akshay-wake-25a0522b4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kunal jadhav" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
