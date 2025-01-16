@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/712Kunal/712Kunal/blob/main/github%20banner.png" alt="banner" width="100%">
+  <img src="https://github.com/AkshayWake11/AkshayWake11/commit/d96363515c1ae78b1d003e035d6022f42f4d675c" alt="banner" width="100%">
 </p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm AkshayWake</h1>
@@ -73,7 +73,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AkshayWake11=&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AkshayWake11&theme=radical" />
 </div>
 
 <div align="center">
