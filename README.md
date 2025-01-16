@@ -54,7 +54,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=AkshayWake11&show_icons=true&locale=en&theme=radical" alt="712kunal" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkshayWake11&theme=radical" alt="AkshayWake11" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkshayWake11&theme=radical" alt="AkshayWake" />
 </p>
 
 <h3 align="left">🏆 GitHub Trophies</h3>
