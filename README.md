@@ -70,24 +70,24 @@
 
 <div align="center">
   
-  [![Kunal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=712kunal&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Kunal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AkshayWake11&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=712kunal&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AkshayWake11=&theme=radical" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=712kunal&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=712kunal&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AkshayWake11&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AkshayWake11&theme=radical" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=712kunal&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=712kunal&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AkshayWake11&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AkshayWake11&theme=radical" />
 </div>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=712kunal&theme=radical" alt="712kunal" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkshayWake11&theme=radical" alt="712kunal" />
 </p>
