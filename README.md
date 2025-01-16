@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/AkshayWake11/AkshayWake11/commit/d96363515c1ae78b1d003e035d6022f42f4d675c" alt="banner" width="100%">
-</p>
+
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm AkshayWake</h1>
 <h3 align="center">A passionate frontend developer from India 🇮🇳</h3>
